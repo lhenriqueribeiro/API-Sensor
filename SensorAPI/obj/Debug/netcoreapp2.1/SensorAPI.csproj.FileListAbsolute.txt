@@ -1,0 +1,14 @@
+C:\Users\User\Source\Repos\SensorAPI\SensorAPI\bin\Debug\netcoreapp2.1\SensorAPI.deps.json
+C:\Users\User\Source\Repos\SensorAPI\SensorAPI\bin\Debug\netcoreapp2.1\SensorAPI.runtimeconfig.json
+C:\Users\User\Source\Repos\SensorAPI\SensorAPI\bin\Debug\netcoreapp2.1\SensorAPI.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\SensorAPI\SensorAPI\bin\Debug\netcoreapp2.1\SensorAPI.dll
+C:\Users\User\Source\Repos\SensorAPI\SensorAPI\bin\Debug\netcoreapp2.1\SensorAPI.pdb
+C:\Users\User\Source\Repos\SensorAPI\SensorAPI\obj\Debug\netcoreapp2.1\SensorAPI.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\SensorAPI\SensorAPI\obj\Debug\netcoreapp2.1\SensorAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\SensorAPI\SensorAPI\obj\Debug\netcoreapp2.1\SensorAPI.RazorAssemblyInfo.cache
+C:\Users\User\Source\Repos\SensorAPI\SensorAPI\obj\Debug\netcoreapp2.1\SensorAPI.RazorAssemblyInfo.cs
+C:\Users\User\Source\Repos\SensorAPI\SensorAPI\obj\Debug\netcoreapp2.1\SensorAPI.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\SensorAPI\SensorAPI\obj\Debug\netcoreapp2.1\SensorAPI.AssemblyInfo.cs
+C:\Users\User\Source\Repos\SensorAPI\SensorAPI\obj\Debug\netcoreapp2.1\SensorAPI.RazorTargetAssemblyInfo.cache
+C:\Users\User\Source\Repos\SensorAPI\SensorAPI\obj\Debug\netcoreapp2.1\SensorAPI.dll
+C:\Users\User\Source\Repos\SensorAPI\SensorAPI\obj\Debug\netcoreapp2.1\SensorAPI.pdb

@@ -1,0 +1,40 @@
+﻿
+<!doctype html>
+<html>
+
+<head>
+    <title>Line Chart</title>
+    <script src="Assets/Chart.min.js"></script>
+    <script src="Assets/utils.js"></script>
+    <style>
+        canvas {
+            -moz-user-select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div style="width:75%;">
+        <canvas id="canvas"></canvas>
+    </div>
+    <br>
+    <br>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous">
+
+    </script>
+    <script src="site.js"></script>
+    <script>
+        $(document).ready(function () {
+            getChartData();
+        });
+    </script>
+
+
+</body>
+
+</html>
